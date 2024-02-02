@@ -1,7 +1,7 @@
 // custom properties
 :url-repo: https://github.com/bettercodepaul/programming-challenge
 
-= BettercallPaul programming challenge
+= My implementation of BettercallPaul programming challenge
 
 This repository provides the project scaffold for a simple
 programming challenge. Though the challenge is very simple
